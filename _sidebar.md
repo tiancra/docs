@@ -1,2 +1,2 @@
 * [首页](/)
-* [Phira多人联机](phiramultiplayer)
+* [Phira多人联机](Phira多人联机)
