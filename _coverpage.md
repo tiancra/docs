@@ -11,13 +11,13 @@
 - MIRELLA国战服指令师
 
 [前往B站主页](https://space.bilibili.com/1911150911)
-[前往文档主页](#docsify)
+[前往文档主页](/)
 
 <!-- _coverpage.md -->
 
 <!-- 背景图片 -->
 
-![](_media/background.png)
+![](background.png)
 
 <!-- 背景色 -->
 
