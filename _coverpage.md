@@ -11,7 +11,7 @@
 - MIRELLA国战服指令师
 
 [前往B站主页](https://space.bilibili.com/1911150911)
-[前往文档主页](/)
+[前往文档主页](?/id=个人介绍)
 
 <!-- _coverpage.md -->
 
