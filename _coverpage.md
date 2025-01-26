@@ -13,10 +13,17 @@
 [前往B站主页](https://space.bilibili.com/1911150911)
 [前往文档主页](#docsify)
 
+<!-- _coverpage.md -->
+
+# docsify <small>3.5</small>
+
+[GitHub](https://github.com/docsifyjs/docsify/)
+[Get Started](#quick-start)
+
 <!-- 背景图片 -->
 
-![](https://p3-pc-sign.douyinpic.com/tos-cn-i-0813/oMSICfzxeAAJ1IAhrqhEsQCASAogEAAtFzN1aA~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&lk3s=138a59ce&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1738692000&x-signature=pB61F1bjvb%2B3SyNMbY3qx2Oqbnw%3D)
+![](_media/bg.png)
 
 <!-- 背景色 -->
 
-![color](#ffffff)
+![color](#f0f0f0)
