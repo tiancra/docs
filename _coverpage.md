@@ -2,7 +2,7 @@
 
 ![logo](tianstudio.svg)
 
-# docsify <small>3.5</small>
+# 天才威の文档
 
 > 欢迎来到天才威玩游戏的官方文档
 
